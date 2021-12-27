@@ -1,0 +1,104 @@
+{
+  service: 'messanger-app',
+  tag: 'db.js',
+  data: { message: 'Database connection established!' },
+  level: 'debug',
+  message: 'db.js',
+  timestamp: '2021-12-26 18:12:22'
+}
+{
+  service: 'messanger-app',
+  tag: 'db.js',
+  data: { message: 'Database connection established!' },
+  level: 'debug',
+  message: 'db.js',
+  timestamp: '2021-12-26 18:12:29'
+}
+{
+  service: 'messanger-app',
+  tag: 'db.js',
+  data: { message: 'Database connection established!' },
+  level: 'debug',
+  message: 'db.js',
+  timestamp: '2021-12-26 18:17:36'
+}
+{
+  service: 'messanger-app',
+  tag: 'db.js',
+  data: { message: 'Database connection established!' },
+  level: 'debug',
+  message: 'db.js',
+  timestamp: '2021-12-26 18:18:48'
+}
+{
+  service: 'messanger-app',
+  tag: 'db.js',
+  data: { message: 'Database connection established!' },
+  level: 'debug',
+  message: 'db.js',
+  timestamp: '2021-12-26 18:20:45'
+}
+{
+  service: 'messanger-app',
+  tag: 'db.js',
+  data: { message: 'Database connection established!' },
+  level: 'debug',
+  message: 'db.js',
+  timestamp: '2021-12-26 18:25:00'
+}
+{
+  service: 'messanger-app',
+  tag: 'db.js',
+  data: { message: 'Database connection established!' },
+  level: 'debug',
+  message: 'db.js',
+  timestamp: '2021-12-26 18:28:35'
+}
+{
+  service: 'messanger-app',
+  tag: 'db.js',
+  data: { message: 'Database connection established!' },
+  level: 'debug',
+  message: 'db.js',
+  timestamp: '2021-12-26 18:30:09'
+}
+{
+  service: 'messanger-app',
+  tag: 'db.js',
+  data: { message: 'Database connection established!' },
+  level: 'debug',
+  message: 'db.js',
+  timestamp: '2021-12-26 18:31:52'
+}
+{
+  service: 'messanger-app',
+  tag: 'db.js',
+  data: { message: 'Database connection established!' },
+  level: 'debug',
+  message: 'db.js',
+  timestamp: '2021-12-26 18:34:59'
+}
+{
+  service: 'messanger-app',
+  tag: 'db.js',
+  data: { message: 'Database connection established!' },
+  level: 'debug',
+  message: 'db.js',
+  timestamp: '2021-12-26 18:37:07'
+}
+{
+  service: 'messanger-app',
+  tag: 'db.js',
+  data: { message: 'Database connection established!' },
+  level: 'debug',
+  message: 'db.js',
+  timestamp: '2021-12-26 18:38:07'
+}
+{
+  service: 'messanger-app',
+  tag: 'db.js',
+  data: { message: 'Database connection established!' },
+  level: 'debug',
+  message: 'db.js',
+  timestamp: '2021-12-26 18:41:47'
+}
